@@ -39,5 +39,5 @@ Cost
 * Make a business simulation from machine learning model.
 
 **File Dictionaries**
-* [Credit_Score_Home_Credit_Indonesia.ipynb](https://github.com/archie-cm/Credit-Score-Home-Credit-Indonesia/blob/main/Credit_Score_Home_Credit_Indonesia.ipynb): this notebook contains all of project details, such as Problem Research, exploratory data analysis & insights from dataset, data preprocessing, modeling, scorecard, business recommendation
-* [VIX_Credit_Score_HCI_Archie_Citra_Muhammad.pdf](https://github.com/archie-cm/Credit-Score-Home-Credit-Indonesia/blob/main/VIX_Credit_Score_HCI_Archie_Citra_Muhammad.pdf): summary of the project.
+* [Credit_Risk_Model_VIX_IDX_Partners_Archie_Citra_Muhammad.ipynb](https://github.com/archie-cm/Credit_Risk_Model_VIX_ID-X_Partners/blob/main/Credit_Risk_Model_VIX_IDX_Partners_Archie_Citra_Muhammad.ipynb): this notebook contains all of project details, such as Problem Research, exploratory data analysis & insights from dataset, data preprocessing, modeling, scorecard, business recommendation
+* [Credit_Risk_Model_VIX_IDX_Partners_Archie_Citra_Muhammad.pdf](https://github.com/archie-cm/Credit_Risk_Model_VIX_ID-X_Partners/blob/main/Credit_Risk_Model_VIX_IDX_Partners_Archie_Citra_Muhammad.pdf): summary of the project.
